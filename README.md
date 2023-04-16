@@ -1,6 +1,6 @@
 # **`DealFinder`**
  
- ***Dealfinder*** is a platform for users to access and stay informed about all the latest technology deals and promotions. The system was designed as part of *CSE 326 Information System Design* coursework.
+ ***Dealfinder*** is a platform for users to access and stay informed about all the latest technology deals and promotions. 
 
 [Short Demo](https://drive.google.com/file/d/1gxL3_7CI0p0CYd5voHFJD7Pzb6HVjlxX/view?usp=sharing)
 
